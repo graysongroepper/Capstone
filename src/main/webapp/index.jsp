@@ -108,12 +108,12 @@
 
 
 <div id="myBtnContainer" class="center">
-    <button class="btn-outline-primary " onclick="filterSelection('all')"> Show all</button>
-    <button class="btn-outline-primary" onclick="filterSelection('Top')">Top Laners</button>
-    <button class="btn-outline-primary" onclick="filterSelection('Jungle')">Junglers</button>
-    <button class="btn-outline-primary" onclick="filterSelection('Mid')">Middle Laners</button>
-    <button class="btn-outline-primary" onclick="filterSelection('ADC')">Bottom Laners</button>
-    <button class="btn-outline-primary" onclick="filterSelection('Sup')">Supports</button>
+    <button class="btn-primary " onclick="filterSelection('all')"> Show all</button>
+    <button class="btn-primary" onclick="filterSelection('Top')">Top Laners</button>
+    <button class="btn-primary" onclick="filterSelection('Jungle')">Junglers</button>
+    <button class="btn-primary" onclick="filterSelection('Mid')">Middle Laners</button>
+    <button class="btn-primary" onclick="filterSelection('ADC')">Bottom Laners</button>
+    <button class="btn-primary" onclick="filterSelection('Sup')">Supports</button>
 </div>
 
         <div class="row">
